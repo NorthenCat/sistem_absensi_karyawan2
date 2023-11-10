@@ -1,0 +1,7 @@
+http://localhost/sistem_absensi_karyawan/
+
+login admin : http://localhost/sistem_absensi_karyawan/auth
+
+username : admin
+password : admin123
+
